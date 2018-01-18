@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<H1>Product Bavklog</H1>
+<H1>Product Backlog</H1>
 </body>
 </html>
